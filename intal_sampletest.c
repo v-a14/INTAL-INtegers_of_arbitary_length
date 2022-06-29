@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "intal.h"
-#include "PES1201801295.h"
+#include "code.h"
 
 int main(int argc, char const *argv[])
 {
